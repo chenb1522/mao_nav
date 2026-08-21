@@ -74,6 +74,20 @@ export const mockData = {
       ]
     },
     {
+      "id": "dev-tools",
+      "name": "开发工具",
+      "icon": "🛠️",
+      "order": 3,
+      "sites": []
+    },
+    {
+      "id": "category-1774510899116",
+      "icon": "☠️",
+      "name": "DDDD",
+      "order": 4,
+      "sites": []
+    },
+    {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
@@ -103,6 +117,34 @@ export const mockData = {
       ]
     },
     {
+      "id": "design",
+      "name": "设计工具",
+      "icon": "🎨",
+      "order": 6,
+      "sites": []
+    },
+    {
+      "id": "finance",
+      "name": "财经投资",
+      "icon": "💰",
+      "order": 7,
+      "sites": []
+    },
+    {
+      "id": "learning",
+      "name": "学习资源",
+      "icon": "📚",
+      "order": 8,
+      "sites": []
+    },
+    {
+      "id": "tools",
+      "name": "在线工具",
+      "icon": "⚙️",
+      "order": 9,
+      "sites": []
+    },
+    {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
@@ -123,6 +165,13 @@ export const mockData = {
           "icon": "/sitelogo/www.youtube.com.ico"
         }
       ]
+    },
+    {
+      "id": "office",
+      "name": "办公协作",
+      "icon": "💼",
+      "order": 11,
+      "sites": []
     }
   ],
   "title": "猫猫导航🐱",
