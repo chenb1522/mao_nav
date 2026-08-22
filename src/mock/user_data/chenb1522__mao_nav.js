@@ -143,6 +143,13 @@ export const mockData = {
           "url": "https://img.557575.xyz",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/img.557575.xyz"
+        },
+        {
+          "id": "site-1787387202730",
+          "name": "博客Rin",
+          "url": "https://blog.557575.xyz",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/blog.557575.xyz"
         }
       ]
     }
