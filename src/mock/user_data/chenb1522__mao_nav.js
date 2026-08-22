@@ -128,7 +128,7 @@ export const mockData = {
       "id": "category-1787386856246",
       "icon": "🛠️",
       "name": "自建工具",
-      "order": 1,
+      "order": 0,
       "sites": [
         {
           "id": "site-1787386942087",
