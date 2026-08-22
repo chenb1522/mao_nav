@@ -123,6 +123,13 @@ export const mockData = {
           "icon": "/sitelogo/www.youtube.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1787386856246",
+      "icon": "📁",
+      "name": "自建工具",
+      "order": 1,
+      "sites": []
     }
   ],
   "title": "猫猫导航🐱",
