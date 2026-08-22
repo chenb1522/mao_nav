@@ -70,6 +70,13 @@ export const mockData = {
           "url": "https://vercel.com",
           "description": "前端部署平台",
           "icon": "/sitelogo/vercel.com.ico"
+        },
+        {
+          "id": "site-1787370114029",
+          "name": "面包云",
+          "url": "https://breadcloud.io",
+          "description": "",
+          "icon": ""
         }
       ]
     },
