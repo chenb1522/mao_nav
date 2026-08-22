@@ -77,6 +77,13 @@ export const mockData = {
           "url": "https://breadcloud.io",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1787370547026",
+          "name": "Vmiss",
+          "url": "https://app.vmiss.com/aff.php?aff=6254",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/app.vmiss.com"
         }
       ]
     },
