@@ -129,7 +129,15 @@ export const mockData = {
       "icon": "🛠️",
       "name": "自建工具",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1787386942087",
+          "name": "自建图床",
+          "url": "https://img.557575.xyz",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/img.557575.xyz"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",
