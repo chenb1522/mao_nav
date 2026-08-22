@@ -34,7 +34,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 1,
       "sites": [
         {
           "id": "cloudflare",
@@ -70,7 +70,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 5,
+      "order": 1,
       "sites": [
         {
           "id": "nodeseek",
@@ -126,7 +126,7 @@ export const mockData = {
     },
     {
       "id": "category-1787386856246",
-      "icon": "📁",
+      "icon": "🛠️",
       "name": "自建工具",
       "order": 1,
       "sites": []
