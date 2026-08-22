@@ -14,13 +14,6 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
           "id": "github",
           "name": "GitHub",
           "url": "https://github.com",
@@ -41,13 +34,6 @@ export const mockData = {
           "url": "https://chat.openai.com",
           "description": "OpenAI对话AI助手",
           "icon": "/sitelogo/chat.openai.com.ico"
-        },
-        {
-          "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI助手",
-          "icon": "/sitelogo/claude.ai.ico"
         }
       ]
     },
