@@ -12,6 +12,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1787387140678",
+          "name": "CloudPaste",
+          "url": "https://cloudpaste.557575.xyz",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cloudpaste.557575.xyz"
         }
       ]
     },
