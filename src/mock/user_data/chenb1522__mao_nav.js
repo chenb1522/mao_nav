@@ -148,6 +148,13 @@ export const mockData = {
           "url": "https://linux.do",
           "description": "Linux技术社区，Peace and Love",
           "icon": "https://www.faviconextractor.com/favicon/linux.do"
+        },
+        {
+          "id": "site-1787896212813",
+          "name": "IDCFlare",
+          "url": "https://idcflare.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/idcflare.com"
         }
       ]
     },
