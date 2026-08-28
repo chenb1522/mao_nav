@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://iplark.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/iplark.com"
+        },
+        {
+          "id": "site-1787881445540",
+          "name": "SSH 密钥生成器",
+          "url": "https://ssh-key-generator.557575.xyz/zh-Hans/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ssh-key-generator.557575.xyz"
         }
       ]
     },
