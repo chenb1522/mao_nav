@@ -31,7 +31,7 @@ export const mockData = {
           "id": "site-1787879209812",
           "name": "LinuxMirrors",
           "url": "https://linuxmirrors.cn/",
-          "description": "Linux源优化，Docker一键安装",
+          "description": "Docker一键安装",
           "icon": "https://www.faviconextractor.com/favicon/linuxmirrors.cn"
         },
         {
