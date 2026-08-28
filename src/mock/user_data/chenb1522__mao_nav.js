@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://iplark.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/iplark.com"
+        },
+        {
+          "id": "site-1787879341759",
+          "name": "NoBrand",
+          "url": "https://cloud.nbdnet.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cloud.nbdnet.com"
         }
       ]
     },
