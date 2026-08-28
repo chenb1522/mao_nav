@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://yandex.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/yandex.com"
+        },
+        {
+          "id": "site-1787879094738",
+          "name": "PoorVPS",
+          "url": "https://poorvps.com",
+          "description": "特价鸡监控",
+          "icon": "https://www.faviconextractor.com/favicon/poorvps.com"
         }
       ]
     },
