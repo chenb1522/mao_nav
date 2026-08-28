@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://poorvps.com",
           "description": "特价鸡监控",
           "icon": "https://www.faviconextractor.com/favicon/poorvps.com"
+        },
+        {
+          "id": "site-1787879209812",
+          "name": "LinuxMirrors",
+          "url": "https://linuxmirrors.cn/",
+          "description": "Linux源优化，Docker一键安装",
+          "icon": "https://www.faviconextractor.com/favicon/linuxmirrors.cn"
         }
       ]
     },
