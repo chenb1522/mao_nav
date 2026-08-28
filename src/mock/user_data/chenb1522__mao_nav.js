@@ -70,6 +70,13 @@ export const mockData = {
           "url": "https://app.vmiss.com/aff.php?aff=6254",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/app.vmiss.com"
+        },
+        {
+          "id": "site-1787878989186",
+          "name": "DediRock",
+          "url": "https://dedirock.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dedirock.com"
         }
       ]
     },
