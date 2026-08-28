@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://linuxmirrors.cn/",
           "description": "Linux源优化，Docker一键安装",
           "icon": "https://www.faviconextractor.com/favicon/linuxmirrors.cn"
+        },
+        {
+          "id": "site-1787879264890",
+          "name": "IPLark",
+          "url": "https://iplark.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/iplark.com"
         }
       ]
     },
