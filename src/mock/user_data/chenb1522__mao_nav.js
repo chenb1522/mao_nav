@@ -163,6 +163,13 @@ export const mockData = {
           "url": "https://www.youtube.com",
           "description": "视频分享平台",
           "icon": "/sitelogo/www.youtube.com.ico"
+        },
+        {
+          "id": "site-1787879646906",
+          "name": "美国地址生成器",
+          "url": "https://addresslab.net/zh/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/addresslab.net"
         }
       ]
     },
