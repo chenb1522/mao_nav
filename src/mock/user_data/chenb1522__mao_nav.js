@@ -12,6 +12,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1787878938361",
+          "name": "Yandex",
+          "url": "https://yandex.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/yandex.com"
         }
       ]
     },
