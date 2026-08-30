@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://ssh-key-generator.557575.xyz/zh-Hans/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/ssh-key-generator.557575.xyz"
+        },
+        {
+          "id": "site-1788058254564",
+          "name": "笔记",
+          "url": "https://note.557575.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/note.557575.xyz"
         }
       ]
     },
