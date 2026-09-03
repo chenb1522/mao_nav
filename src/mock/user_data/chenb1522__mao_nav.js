@@ -220,6 +220,13 @@ export const mockData = {
           "url": "https://cloudpaste.557575.xyz",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/cloudpaste.557575.xyz"
+        },
+        {
+          "id": "site-1788419650305",
+          "name": "Clash (Mihomo) ↔ 节点链接 转换工具",
+          "url": "https://convert.557575.xyz/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
