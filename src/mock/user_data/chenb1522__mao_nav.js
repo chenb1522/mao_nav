@@ -119,6 +119,13 @@ export const mockData = {
           "url": "https://cloud.nbdnet.com",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/cloud.nbdnet.com"
+        },
+        {
+          "id": "site-1788681398975",
+          "name": "Novixlink",
+          "url": "https://novixlink.com",
+          "description": "",
+          "icon": ""
         }
       ]
     },
