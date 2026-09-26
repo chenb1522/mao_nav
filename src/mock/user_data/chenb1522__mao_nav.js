@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://note.557575.xyz/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/note.557575.xyz"
+        },
+        {
+          "id": "site-1790402735220",
+          "name": "Panstar",
+          "url": "https://panstar.ai/login?redirect=%2Fconsole%2Fdashboard",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/panstar.ai"
         }
       ]
     },
