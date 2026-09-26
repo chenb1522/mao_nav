@@ -61,6 +61,13 @@ export const mockData = {
           "url": "https://panstar.ai/login?redirect=%2Fconsole%2Fdashboard",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/panstar.ai"
+        },
+        {
+          "id": "site-1790404964738",
+          "name": "Lightlayer",
+          "url": "https://account.lightlayer.net/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/account.lightlayer.net"
         }
       ]
     },
